@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1OyDkB8Y1qJsNByRGd5-uDHXeT1oT8Pwy/view?usp=shari
 
 
 train.tfrecord
-https://drive.google.com/open?id=1uhJZP8QlR2zpCd58vjnO5b5mCD69pIsW
+https://drive.google.com/file/d/1uhJZP8QlR2zpCd58vjnO5b5mCD69pIsW/view?usp=sharing
 
 test.tfrecord
 https://drive.google.com/file/d/1ZmN7cU7CCtkymT8w_YpGfJQzP_OfwRMh/view?usp=sharing
